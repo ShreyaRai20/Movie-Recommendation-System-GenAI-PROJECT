@@ -38,14 +38,13 @@ Execute the `recommendation_system.py` script to run the recommendation engine a
 ```bash
 python src/recommendation_system.py
 
-Example Usage
-```
-'''from src.recommendation_system import get_recommendations
-```
-```
+#Example Usage
+
+from src.recommendation_system import get_recommendations
 print(get_recommendations('The Dark Knight Rises'))
 print(get_recommendations('The Matrix'))
-'''
+
+```
 
 Output: 
 
