@@ -46,7 +46,9 @@ print(get_recommendations('The Matrix'))
 
 ```
 
-Output: 
+```
+#Output: 
+
 
 Recommended movies for "The Matrix":
 0    The Matrix Revolutions
@@ -60,7 +62,7 @@ Recommended movies for "The Matrix":
 8    The Prestige
 9    Batman Begins
 
-
+```
 We welcome contributions to improve this project! If you have suggestions, bug fixes, or feature requests, please follow these steps:
 
 1. **Fork the repository** on GitHub.
