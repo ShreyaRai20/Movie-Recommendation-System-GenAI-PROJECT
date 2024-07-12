@@ -24,13 +24,13 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/movie-recommendation-system.git
 cd movie-recommendation-system
-
+```
 
 ### 3. **Run the Script**
 
 Explain how to execute the main script and provide a brief description of what the script does.
 
-```markdown
+```markdown```
 ### Run the Script
 
 Execute the `recommendation_system.py` script to run the recommendation engine and get movie recommendations based on a given title.
@@ -39,9 +39,10 @@ Execute the `recommendation_system.py` script to run the recommendation engine a
 python src/recommendation_system.py
 
 Example Usage
-
+```
 '''from src.recommendation_system import get_recommendations
-
+```
+```
 print(get_recommendations('The Dark Knight Rises'))
 print(get_recommendations('The Matrix'))
 '''
